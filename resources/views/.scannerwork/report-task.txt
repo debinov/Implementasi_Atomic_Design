@@ -1,0 +1,6 @@
+projectKey=AtomicDesign
+serverUrl=http://localhost:9000
+serverVersion=10.5.1.90531
+dashboardUrl=http://localhost:9000/dashboard?id=AtomicDesign
+ceTaskId=b2c4360c-9c12-4a48-a266-71de6d3ec2de
+ceTaskUrl=http://localhost:9000/api/ce/task?id=b2c4360c-9c12-4a48-a266-71de6d3ec2de
